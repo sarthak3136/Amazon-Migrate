@@ -1,0 +1,13 @@
+GetAllProducts: https://mutoklkxctt2gp2xeq2yg5cw4y0vmkdd.lambda-url.us-east-1.on.aws/
+RegisterUser: https://elwoywpvwjozlbfelbfbwmqbbm0vlliw.lambda-url.us-east-1.on.aws/
+SignInUser: https://avsfly2lhbct3fxq4hs65xeeem0wveqh.lambda-url.us-east-1.on.aws/
+
+// API Gateway APIS
+1. GetAllProducts: https://od1s6mm4t4.execute-api.us-east-1.amazonaws.com/Dev (GET) (GetAllProducts)
+2. GetProductById: https://p0eeuk4p2a.execute-api.us-east-1.amazonaws.com/Dev (POST) (GetProductById)
+
+3. OrderDetailsById: https://844t6ab0vi.execute-api.us-east-1.amazonaws.com/Dev (POST) (GetOrderById)
+4. CreatedOrder: https://6wrub2gqvf.execute-api.us-east-1.amazonaws.com/Dev (POST) (NewOrder)
+
+5. SignUpUser: https://s50snmv0f7.execute-api.us-east-1.amazonaws.com/Dev/Signup (POST) (RegisterUser)
+6. LoginUser: https://s50snmv0f7.execute-api.us-east-1.amazonaws.com/Dev/Login (POST) (SignInUser)
