@@ -1,10 +1,9 @@
 # AMAZON CLONE
 
-Hi! I'm Sarthak Patel, a **MERN Stack Developer**. This is a clone of popular e-commmerce website and I have migrated it completely to AWS. **Amazon**.
-I have created it with **React** in frontend,  **Node and Express** for backend and **MongoDB** for storing data.
+Hi! I'm Sarthak Patel, a **MERN Stack Developer**. This is a clone of popular e-commmerce website and I have migrated the original on premise code to AWS. **Amazon**.
 <br>
 <br>
-> ### Web App Link - https://amazon-clone-eight-rho.vercel.app/
+> ### Web App Link - [https://amazon-clone-eight-rho.vercel.app/](http://my-final-amazonclone-env.eba-q4spmvev.us-east-1.elasticbeanstalk.com/)
 
 
 <br>
@@ -44,5 +43,3 @@ Login Credentials:
 <img src="./screenshots/ss4.png" alt=""/>
 <br>
 <img src="./screenshots/ss5.png" alt=""/>
-<br>
-<img src="./screenshots/ss6.png" alt=""/>
