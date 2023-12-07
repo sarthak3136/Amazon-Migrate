@@ -3,7 +3,7 @@
 Hi! I'm Sarthak Patel, a **MERN Stack Developer**. This is a clone of popular e-commmerce website and I have migrated the original on premise code to AWS. **Amazon**.
 <br>
 <br>
-> ### Web App Link - [https://amazon-clone-eight-rho.vercel.app/](http://my-final-amazonclone-env.eba-q4spmvev.us-east-1.elasticbeanstalk.com/)
+> ### Web App Link - [https://amazon-clone-eight-rho.vercel.app/](http://my-final-amazonclone-env.eba-q4spmvev.us-east-1.elasticbeanstalk.com/]
 
 
 <br>
